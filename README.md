@@ -52,7 +52,7 @@ me.say_hi()
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3175a2?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-28A745?style=for-the-badge&labelColor=black)
+![Ultralytics YOLOv8](https://img.shields.io/badge/Ultralytics%20YOLOv8-5A5A5A?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud & MLOps
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
